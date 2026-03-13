@@ -19,8 +19,8 @@ jobs:
           token: ${{ secrets.METRICS_WIDGETS_TOKEN }}
           
       - name: Most used languages (with details)
-      - uses: lowlighter/metrics@latest
-      - with:
+        uses: lowlighter/metrics@latest
+        with:
           filename: metrics.plugin.languages.details.svg
           token: ${{ secrets.METRICS_WIDGETS_TOKEN }}
           base: ""
