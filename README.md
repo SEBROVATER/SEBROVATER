@@ -1,20 +1,30 @@
-<h3 align="center">🌌 👀</h3>
+<p align="center"><strong>Software engineer</strong> with a bias for shipping. I build CV systems and Rust/Python products end‑to‑end, from planning to deployment.</p>
+<p align="center">Professional, but the diegetic UI is always on.</p>
 
 ---
 
-### Subjective experience:
+**Operator Log**
+> I design systems that behave in the dark: observable, fault‑tolerant, and boring in production.
+> If it ships without a minimap, I add one.
 
-# |-------------- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a> ---- <a href="https://github.com/hoffstadt/DearPyGui" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hoffstadt/DearPyGui/assets/readme/dpg_logo_button.png" alt="rust" width="50" height="30"/> </a>--------- <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="opencv" width="30" height="30"/> </a> - <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a> ---- <a style="text-align: center;" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> ->
-# |----- <a href="https://pola.rs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/aaf2f27739f20a90dca03c1c0d8cc5372dec00bd/icons/polars.svg" alt="rust" width="30" height="30"/> </a> ---- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> </a> --- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> </a> - <a href="https://docs.aiogram.dev/en/latest/" target="_blank" rel="noreferrer"> <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" alt="rust" width="30" height="30"/> </a>- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/> </a> ->
-# |---------------- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> -- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> ->
-# |- <a href="https://docs.celeryq.dev/en/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="rust" width="30" height="30"/> </a> - <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a>  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> -- <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a> ->
-# |---------------------- [egui](https://www.egui.rs/#demo) -- <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/> </a> ->
+**Loadout**
+- Vision stack: CV pipelines, model evaluation, deployment paths that don't buckle under reality
+- Product stack: Rust/Python full‑stack delivery, from API contracts to release scripts
+- Reliability stack: telemetry, profiling, and surgical performance work
+
+**Doctrine**
+- Clarity beats cleverness. Automation beats optimism.
+- If it's not measurable, it's folklore.
+- The fastest path is the one you can repeat.
+
+**Quest Log**
+- Turn ML/CV prototypes into tools that humans actually enjoy using
+- Build services that are fast, observable, and quiet under pressure
+- Side‑questing in metroidbrainia: backtracking is a feature, not a bug
 
 ---
 
-<p align="center"><img src="/metrics.plugin.languages.svg" alt="Languages" width="400"></p>
-
-
-<p align="center"><img src="/metrics.base.svg" alt="Metrics" width="400"></p>
-
-<p align="center"><img src="/metrics.plugin.steam.svg" alt="Metrics" width="400"></p>
+**Stats**
+<p align="center"><img src="/metrics.plugin.languages.svg" alt="Languages" width="420"></p>
+<p align="center"><img src="/metrics.base.svg" alt="Metrics" width="420"></p>
+<p align="center"><img src="/metrics.plugin.steam.svg" alt="Steam" width="420"></p>
