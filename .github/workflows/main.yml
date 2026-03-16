@@ -30,9 +30,24 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 30
           plugin_languages_analysis_timeout_repositories: 15
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           commits_authoring: Konstantin Sebrovskiy, SEBROVATER, sebrovskiy.k@gmail.com
           plugin_languages_recent_load: 1000
           plugin_languages_recent_days: 60
           plugin_languages_recent_categories: data, markup, programming, prose
           plugin_languages_categories: data, markup, programming, prose
+
+      - name: Profile and detailed game history
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: ${{ secrets.STEAM_ID }}
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_games_ignored: 570
+          plugin_steam_games_limit: 5
+          plugin_recent_steam_games_limit: 5
+          plugin_steam_achievements_limit: 10
