@@ -14,9 +14,15 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Default metrics
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.base.svg
           token: ${{ secrets.METRICS_WIDGETS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          commits_authoring: Konstantin Sebrovskiy, SEBROVATER, sebrovskiy.k@gmail.com
+          repositories_affiliations: owner, collaborator, organization_member
+          base_indepth: yes
 
       - name: Used languages
         uses: lowlighter/metrics@latest
@@ -27,6 +33,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_ignored: markdown, c
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 30
           plugin_languages_analysis_timeout_repositories: 15
@@ -49,6 +56,6 @@ jobs:
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_games_ignored: 570, 216250
           plugin_steam_games_limit: 7
-          plugin_recent_steam_games_limit: 7
+          plugin_steam_recent_games_limit: 7
           plugin_steam_achievements_limit: 0
           plugin_steam_playtime_threshold: 0.5
